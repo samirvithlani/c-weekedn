@@ -1,0 +1,2 @@
+2 type of template 
+class template function template
