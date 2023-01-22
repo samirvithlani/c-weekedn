@@ -2,21 +2,20 @@
 
 using namespace std;
 
-template <typename T> T demo2(T a){
+template <typename T>   demo2(T a){
 
 
     cout<<"Value of a is: "<<a<<endl;
 
     return a;
-
 }
 template <typename T> void demo3(T x){
-    cout<<"Value of x is: "<<x<<endl;
+    cout<<"Value of x is: "<<x;
 }
 
 demo(int a){
 
-    cout<<"Value of a is: "<<a<<endl;
+    cout<<"Value of a is: "<<a;
     return 15;
 }
 
